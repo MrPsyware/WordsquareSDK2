@@ -1,0 +1,37 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "74bd40a3-41fb-4b5e-8675-8e0a9fc3627e",
+    "appKeys": {},
+    "longName": "Wordsquare SDK2",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Wordsquare",
+    "companyName": "MrPsyware",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "MENU_ICON",
+                "file": "images/menu_icon.png"
+            },
+            {
+                "characterRegex": "[a-zA-Z]",
+                "type": "font",
+                "name": "FONT_SOURCECODEPRO_BLACK_20",
+                "file": "fonts/SourceCodePro-Black.ttf"
+            },
+            {
+                "characterRegex": "[a-zA-Z]",
+                "type": "font",
+                "name": "FONT_SOURCECODEPRO_LIGHT_20",
+                "file": "fonts/SourceCodePro-Light.ttf"
+            }
+        ]
+    }
+}
